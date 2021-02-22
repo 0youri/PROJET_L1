@@ -1,0 +1,7 @@
+iPhone 11 Pro Max:iPhone:1099:iphone11promax.png:
+iPhone 11 Pro:iPhone:999:iphone11pro.png:
+iPhone 11:iPhone:699:iphone11.png:
+iPhone SE:iPhone:399:iphonese.png:
+iPad Pro:iPad:799:ipadpro.png:
+Apple Watch 5:Watch:399:watch3.png:
+Apple TV:TV:199:appletv.png:
